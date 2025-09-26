@@ -213,6 +213,7 @@ const closePopup = () => {
   width: 100%;
   min-height: 100vh;
   padding-bottom: 20px;
+  background: #f5f5f5;
 }
 
 .top-bg-container {
