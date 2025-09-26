@@ -222,8 +222,7 @@ const closePopup = () => {
   justify-content: center;
   min-height: 225px;
   background-image: url('@/assets/top_bg.png');
-  background-size: contain;
-  // background-position: center;
+  background-size: 100% auto;
   background-repeat: no-repeat;
 }
 
