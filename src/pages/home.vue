@@ -351,7 +351,6 @@ const closePopup = () => {
   z-index: 100;
   cursor: pointer;
   // background: rgba(255, 0, 0, 0.5);
-  border: 2px solid #fff;
   border-radius: 0 0 0 10px;
   box-sizing: border-box;
 }
